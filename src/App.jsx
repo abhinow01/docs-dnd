@@ -1,6 +1,6 @@
 import React from 'react'
-import Background from './components/background'
-import Foreground from './components/Foreground'
+import Background from './Background'
+import Foreground from './Foreground'
 
 function App() {
   return (
